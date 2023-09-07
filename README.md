@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/ashiq-sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiq-sazid" height="30" width="40" /></a>
 <a href="https://fb.com/ashiq sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiq sazid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashiq sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashiq sazid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashiq sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiq sazid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ashiqsazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashiqsazid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashiqsazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiqsazid" height="30" width="40" /></a>
 <a href="https://discord.gg/940210760716546118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="940210760716546118" height="30" width="40" /></a>
 </p>
 
