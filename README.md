@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/AshiqSazid/AshiqSazid/assets/90910973/489434d1-4578-4e96-a897-ff60b68b7df8)
 <h1 align="center">Hi 👋, I'm Ashiq Sazid</h1>
-<h3 align="center">A coder and developer.Python Programmer.</h3>
+<h3 align="center">Ai and backend developer.Python Programmer.</h3>
 
 ![8bd43448904239 58a531b0cc801](https://github.com/AshiqSazid/AshiqSazid/assets/90910973/3f41ef44-5ec5-4bca-9037-1688f352a27b)
 
