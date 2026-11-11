@@ -1,35 +1,62 @@
 ![MasterHead](https://github.com/AshiqSazid/AshiqSazid/assets/90910973/489434d1-4578-4e96-a897-ff60b68b7df8)
+
 <h1 align="center">Hi 👋, I'm Ashiq Sazid</h1>
-<h3 align="center">Ai and backend developer.Python Programmer.</h3>
+<h3 align="center">AI and backend developer. LLM systems and security researcher.</h3>
 
-![8bd43448904239 58a531b0cc801](https://github.com/AshiqSazid/AshiqSazid/assets/90910973/3f41ef44-5ec5-4bca-9037-1688f352a27b)
+![banner](https://github.com/AshiqSazid/AshiqSazid/assets/90910973/3f41ef44-5ec5-4bca-9037-1688f352a27b)
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqsazid&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqsazid&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashiqsazid" alt="ashiqsazid" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## About me
 
-- 🔭 I’m currently working on **Publishing Data Science Research and Machine Learning Paper**
+- AI backend developer building LLM services, agents, and ML pipelines in production
+- Research in AI security, adversarial ML, federated learning, and LLM inference systems, with peer reviewed papers at IEEE, Springer, and ACM venues
+- Founder of [Cogni Lynch](https://cognilynch.com), an AI/ML consulting and engineering firm
+- Currently working on LLM security research and open source model deployment
 
-- 🌱 I’m currently learning **Flutter**
+## Skills
 
-<h3 align="left">Connect with me:</h3>
+**Languages**
+Python, C++
+
+**ML and LLMs**
+Keras, model fine tuning, LangChain, open source model deployment, federated learning, reinforcement learning
+
+**LLM Systems and Security**
+vLLM, SGLang, Model Context Protocol (MCP)
+
+**Infrastructure**
+FastAPI, Docker, Kafka, Azure
+
 <p align="left">
-<a href="https://linkedin.com/in/ashiq-sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiq-sazid" height="30" width="40" /></a>
-<a href="https://fb.com/ashiq sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashiq sazid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ashiqsazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashiqsazid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ashiqsazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiqsazid" height="30" width="40" /></a>
-<a href="https://discord.gg/940210760716546118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="940210760716546118" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/vLLM-000000?style=for-the-badge" alt="vLLM" />
+<img src="https://img.shields.io/badge/SGLang-000000?style=for-the-badge" alt="SGLang" />
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## Connect with me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqsazid&show_icons=true&locale=en&layout=compact" alt="ashiqsazid" /></p>
+<p align="left">
+<a href="https://linkedin.com/in/ashiq-sazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashiq-sazid" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ashiqsazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ashiqsazid" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashiqsazid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashiqsazid" height="30" width="40" /></a>
+<a href="https://cognilynch.com" target="blank">Cogni Lynch</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqsazid&show_icons=true&locale=en" alt="ashiqsazid" /></p>
+## GitHub stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqsazid&" alt="ashiqsazid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiqsazid&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiqsazid&show_icons=true&locale=en" alt="github stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiqsazid&" alt="streak" /></p>
